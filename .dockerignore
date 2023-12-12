@@ -1,0 +1,5 @@
+.git*
+.venv
+Dockerfile
+pyproject.toml
+README.md
